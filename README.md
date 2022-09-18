@@ -31,21 +31,9 @@ Here are some ideas to get you started:
 **Front-end:**
 <div>
   <img align="center" title="Elixir" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
-  <img align="center" title="Express" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" title="Gatsby" alt="Gatsby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg">
-  <img align="center" title="graphql" alt="graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg">
-  <img align="center" title="markdown" alt="markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-  <img align="center" title="kotlin" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" title="heroku" alt="heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
-  <img align="center" title="laravel" alt="laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-  <img align="center" title="linux" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" title="Bower" alt="Bower" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-original.svg">
-  <img align="center" title="Composer" alt="Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" title="Debian" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
   <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" title="Django" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -53,28 +41,26 @@ Here are some ideas to get you started:
   <img align="center" title="Toolkit" alt="Toolkit" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" />
 </div> 
   
-**Back-end:**
+**Back-end:**  
 <div>
   <img align="center" title="nodejs" alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" title="Sequelize" alt="sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg">
-  
-**Blockchain:**
-  <div>
-<img align="center" title="Truffle" alt="truffle" height="40" width="40" src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png">
-  <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
-     <img align="center" title="Ganache" alt="Ganache" height="40" width="40" src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png">
 
 **Database:**
-
  <div>
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
   <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-
+  <img align="center" title="markdown" alt="markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+   
 **Tools:**
-
 <div>
   <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" title="Debian" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+  <img align="center" title="heroku" alt="heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+  <img align="center" title="linux" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" title="Bower" alt="Bower" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bower/bower-original.svg">
+  <img align="center" title="Composer" alt="Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
   <img align="center" title="git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" title="npm" alt="npm" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
   <img align="center" title="slack" alt="slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" />
@@ -85,7 +71,6 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=qumy&show_icons=true&theme=gotham" alt="" />
   
 **Contact me:**  
- 
 <a href="https://www.linkedin.com/in/qumy/">
   <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
