@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 <img align="center" title="jQuery" alt="jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 -->
 
+<br>
 **Languages:**
-
 <div>
   <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="Typescript" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- 
+
+<br>
+<br>
 **Front-end:**
 <div>
   <img align="center" title="Elixir" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
@@ -40,19 +42,24 @@ Here are some ideas to get you started:
   <img align="center" title="Tailwindcss" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" title="Toolkit" alt="Toolkit" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" />
 </div> 
-  
-**Back-end:**  
+
+<br>
+**Back-end:**
 <div>
   <img align="center" title="nodejs" alt="nodejs" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" title="Sequelize" alt="sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg">
 
+<br>
+<br>
 **Database:**
- <div>
+<div>
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
   <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" title="markdown" alt="markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-   
+
+<br>
+<br>
 **Tools:**
 <div>
   <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -68,12 +75,17 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=qumy&show_icons=true&theme=gotham" alt="" />
-  
-**Contact me:**  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=qumy&show_icons=true&theme=gotham" alt="" /></p>
+
+<br>
+<br>
+**Contact me:**
+<div>
 <a href="https://www.linkedin.com/in/qumy/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:">
-  <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
+  <img align="left" alt="" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
 </a>
+</div>
+
