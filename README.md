@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" title="Tailwindcss" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" title="Toolkit" alt="Toolkit" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" />
 </div> 
 
@@ -81,7 +80,7 @@ Here are some ideas to get you started:
 <br>
 **Contact me:**
 <div>
-<a href="https://www.linkedin.com/in/qumy/">
+<a href="https://github.com/qumy">
   <img align="left" alt="" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:">
