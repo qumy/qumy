@@ -81,9 +81,6 @@ Here are some ideas to get you started:
 **Contact me:**
 <div>
 <a href="https://github.com/qumy">
-  <img align="left" alt="" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="mailto:">
   <img align="left" alt="" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
 </a>
 </div>
